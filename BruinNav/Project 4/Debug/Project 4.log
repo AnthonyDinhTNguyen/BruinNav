@@ -1,0 +1,19 @@
+﻿  Navigator.cpp
+c:\cs32\project 4\project 4\navigator.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cs32\project 4\project 4\navigator.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cs32\project 4\project 4\navigator.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cs32\project 4\project 4\navigator.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cs32\project 4\project 4\navigator.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(236): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project 4\project 4\navigator.cpp(269): warning C4018: '<': signed/unsigned mismatch
+  Project 4.vcxproj -> C:\CS32\Project 4\Debug\Project 4.exe
+  Project 4.vcxproj -> C:\CS32\Project 4\Debug\Project 4.pdb (Partial PDB)
